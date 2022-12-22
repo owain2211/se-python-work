@@ -1,2 +1,3 @@
-# se-python-work
-Repo for python work
+# Software Engineering Project -  summative assignment
+
+
